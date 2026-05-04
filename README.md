@@ -13,4 +13,6 @@ English Dictionary is a native Android application that allows users to browse, 
 - ConstraintLayout
 - Gradle Kotlin DSL
 
-<img width="1920" height="1080" alt="Adsız tasarım" src="https://github.com/user-attachments/assets/4a2ffc5f-4320-46a9-b4e1-9ad4bfb7704c" />
+<img width="1920" height="1080" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/1fbee657-17e0-47dd-9c72-0b2c505e753d" />
+
+
